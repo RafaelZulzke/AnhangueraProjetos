@@ -1,0 +1,31 @@
+7 - Ler 5 Caixas e comparar pesos
+
+a,b,c INT;
+
+Para ( b = 1; b <=5; b++)
+Faça
+{
+Escreva("Digite o peso da Caixa);
+Leia(a);
+Se ( a < 10)
+{
+Escreva("Caixa vazia"):
+}
+Senão
+{
+Se ( a  >= 10 e a = 30)
+{
+escreva("Caixa dento do permitido");
+}
+Senão
+{
+Se ( a > 30)
+{
+c = 30 - a;
+Escreva("O peso acima do permitido na caixa é %d", c);
+
+}
+
+}
+}
+}
