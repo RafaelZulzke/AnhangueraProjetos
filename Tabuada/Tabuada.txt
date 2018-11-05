@@ -1,0 +1,15 @@
+6 - Tabuada de qualquer numero
+
+a,b,c INT;
+
+Escreva("Digite a tabuada a ser mostrada");
+Leia(a);
+
+Para(b = a; <=10; b++)
+Faça
+{
+c = a *b;
+Escreva("%d * %d = %d", a,b,c);
+} 
+FimFaça
+Fim Programa
