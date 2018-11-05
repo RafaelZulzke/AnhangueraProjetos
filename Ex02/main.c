@@ -1,16 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
-
-int main(int argc, char *argv[])
+int main(int argc, char *argv[]) 
 {
-  int a;
-  a=0;
-  while (a <= 100)
-	{
-	 printf("%d \n\n" , a);
-	 a = a +2;
-	 }
+	int x,y,r;
+	scanf("%d", &x);
+	scanf("%d", &y);
+	r = x+y;
+	printf("\n\n\n");
+	printf("%d + %d = %d",x,y,r);
 	return 0;
 }
+

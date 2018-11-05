@@ -1,16 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-int main(int argc, char *argv[])
-{
-	int a;
-	a=0;
-	while (a <= 100)
-	{
-	 printf("%d \n\n" , a);
-	 a = a +1;
-	}
-	return 0;
-}
+int main(int argc, char *argv[]) 
+  {
+    int   x = 5 , y = 6, r;
+	r = x + y;
+	printf("\nSeu resultado : %d", r);
+    printf("\n %d * %d = %d" ,x ,y ,r);
+	printf("\n\n");    
+    system ("pause");
+    return 0;
+  }
