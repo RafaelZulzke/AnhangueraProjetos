@@ -1,0 +1,67 @@
+3 - Calculadora com Switch
+
+VAR 
+
+a,b,c REAL
+op CHAR
+
+INICIO
+
+Escreva("Digite o 1° Numero");
+Leia(a);
+Escreva("Digite o 2º Numero"):
+Leia(b);
+
+/*Inicio do Switch*/
+Escreva("/n1 - Soma = '+' /n2 - Subtração = '-' /n3 - Subtração = '*' /n4 - Divisão = '/' /n5 - Saida = 'x'); 
+Leia(op):
+Escolha(op)
+{
+
+Caso ( op == '+'):
+
+c = a+b;
+
+Escreva("A soma dos numeros é %d", c);
+
+Parada;
+
+Caso (op == '-'):
+
+c=a-b;
+
+Escreva("A subtração dos numeros é %d", c);
+
+Parada;
+
+Caso(op == '*'):
+
+c=a*b
+
+Escreva("A multiplacação dos numeros é %d", c);
+
+Parada;
+
+Caso(op == '/'):
+
+c=a/b;
+
+Escreva("A divisão dos numeros é %d", c);
+
+Parada;
+
+Caso ( op =='x"):
+
+Saida();
+
+Parada;
+
+Caso Padrão:
+
+Escreva("Opção Invalida");
+
+Parada;
+}
+
+
+

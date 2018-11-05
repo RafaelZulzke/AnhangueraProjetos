@@ -1,0 +1,17 @@
+5 - Acumulando Numeros
+
+VAR
+ 
+b INTEIRA;
+
+
+INICIO
+
+
+Para( b = 0 de 10 até 20)
+Faça
+{
+Escreva("\n b")
+}
+Fim Para
+Fim Algoritmo
