@@ -1,0 +1,39 @@
+2 - Media de Dois Numeros Repetindo 10x
+
+VAR
+
+x = 0 INT,
+a,b,c REAL;
+
+INICIO
+
+Para( x < 10) 
+Faça
+{
+Escreva("Digite o 1 Numero);
+Leia(a);
+Escreva("Digite o 2 Numero);
+Leia(b);
+
+/*Inicio do Calculo*/
+
+c = ((a+b)/2);
+
+Escreva("Sua Media é %r", c);
+
+/*Estrutura SE/SENÃO*/
+
+Se (c >= 6)
+{
+Escreva("Aprovado);
+}
+
+Senão
+{
+Escreva("Reprovado);
+
+}
+
+}/*Fim Para*/
+
+FIM

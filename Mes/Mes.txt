@@ -1,0 +1,89 @@
+4 - Meses do Ano
+
+VAR
+
+op  CHAR;
+
+INICIO
+Escreva("\n A - Janeiro \n B - Fevereiro \n C - Março \n D - Abril \n E - Maio \n F - Junho /n G - Julho \n H - Agosto \n I - Setembro \n J - Outubro \n K - Novembro \n L - Dezembro ");
+Leia(op)
+Escolha(op):
+{
+
+Caso a:
+
+Escreva("Janeiro");
+
+Parada;
+
+Caso b:
+Escreva("Fevereiro");
+
+Parada;
+
+Caso c:
+
+Escreva("Março");
+
+Parada;
+
+Caso d:
+
+Escreva("Abril");
+
+Parada;
+
+Caso e:
+
+Escreva("Maio");
+
+Parada;
+
+Caso f:
+
+Escreva("Junho");
+
+Parada;
+
+Caso g:
+
+Escreva("Julho");
+
+Parada;
+
+Caso h:
+
+Escreva("Agosto");
+
+Parada;
+
+Caso i:
+
+Escreva("Setembro");
+
+Parada;
+
+Caso j:
+
+Escreva("Outubro");
+
+Parada;
+
+Caso k:
+
+Escreva("Novembro");
+
+Parada;
+
+Caso l:
+
+Escreva("Dezembro");
+
+Parada;
+
+Caso Padrão:
+	
+Escreva("Mes Invalido");
+
+Parada;
+}

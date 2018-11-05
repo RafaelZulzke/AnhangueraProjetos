@@ -1,0 +1,32 @@
+1 - Media de Dois Numeros
+
+VAR
+
+a,b,c REAL;
+
+INICIO
+
+Escreva("Digite o 1 Numero);
+Leia(a);
+Escreva("Digite o 2 Numero);
+Leia(b);
+
+/*Inicio do Calculo*/
+
+c = (a+b)/2);
+
+Escreva("Sua Media é %r", c);
+
+/*Estrutura SE/SENÃO*/
+
+Se (c >= 6)
+{
+Escreva("Aprovado);
+}
+
+Senão
+{
+Escreva("Reprovado);
+}
+
+FIM
