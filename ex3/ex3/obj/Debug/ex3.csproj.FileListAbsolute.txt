@@ -1,0 +1,8 @@
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex3\ex3\bin\Debug\ex3.exe.config
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex3\ex3\bin\Debug\ex3.exe
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex3\ex3\bin\Debug\ex3.pdb
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex3\ex3\obj\Debug\ex3.csprojResolveAssemblyReference.cache
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex3\ex3\obj\Debug\ex3.MainForm.resources
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex3\ex3\obj\Debug\ex3.csproj.GenerateResource.Cache
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex3\ex3\obj\Debug\ex3.exe
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex3\ex3\obj\Debug\ex3.pdb

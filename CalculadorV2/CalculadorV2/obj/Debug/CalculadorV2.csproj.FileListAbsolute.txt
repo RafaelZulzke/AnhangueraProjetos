@@ -1,0 +1,10 @@
+E:\Anhanguera\7 Semestre\Pedrao\SharpDevelop Projects\CalculadorV2\CalculadorV2\bin\Debug\CalculadorV2.exe.config
+E:\Anhanguera\7 Semestre\Pedrao\SharpDevelop Projects\CalculadorV2\CalculadorV2\bin\Debug\CalculadorV2.exe
+E:\Anhanguera\7 Semestre\Pedrao\SharpDevelop Projects\CalculadorV2\CalculadorV2\bin\Debug\CalculadorV2.pdb
+E:\Anhanguera\7 Semestre\Pedrao\SharpDevelop Projects\CalculadorV2\CalculadorV2\obj\Debug\CalculadorV2.csprojResolveAssemblyReference.cache
+E:\Anhanguera\7 Semestre\Pedrao\SharpDevelop Projects\CalculadorV2\CalculadorV2\obj\Debug\CalculadorV2.Form1.resources
+E:\Anhanguera\7 Semestre\Pedrao\SharpDevelop Projects\CalculadorV2\CalculadorV2\obj\Debug\CalculadorV2.Properties.Resources.resources
+E:\Anhanguera\7 Semestre\Pedrao\SharpDevelop Projects\CalculadorV2\CalculadorV2\obj\Debug\CalculadorV2.csproj.GenerateResource.Cache
+E:\Anhanguera\7 Semestre\Pedrao\SharpDevelop Projects\CalculadorV2\CalculadorV2\obj\Debug\CalculadorV2.csproj.CoreCompileInputs.cache
+E:\Anhanguera\7 Semestre\Pedrao\SharpDevelop Projects\CalculadorV2\CalculadorV2\obj\Debug\CalculadorV2.exe
+E:\Anhanguera\7 Semestre\Pedrao\SharpDevelop Projects\CalculadorV2\CalculadorV2\obj\Debug\CalculadorV2.pdb

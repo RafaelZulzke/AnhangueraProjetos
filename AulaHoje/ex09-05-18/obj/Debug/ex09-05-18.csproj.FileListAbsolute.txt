@@ -1,0 +1,10 @@
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex09-05-18\ex09-05-18\obj\Debug\ex09-05-18.csprojResolveAssemblyReference.cache
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex09-05-18\ex09-05-18\obj\Debug\ex09_05_18.MainForm.resources
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex09-05-18\ex09-05-18\obj\Debug\ex09_05_18.Teste01.resources
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex09-05-18\ex09-05-18\obj\Debug\ex09_05_18.Teste02.resources
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex09-05-18\ex09-05-18\obj\Debug\ex09-05-18.csproj.GenerateResource.Cache
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex09-05-18\ex09-05-18\bin\Debug\ex09-05-18.exe.config
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex09-05-18\ex09-05-18\bin\Debug\ex09-05-18.exe
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex09-05-18\ex09-05-18\bin\Debug\ex09-05-18.pdb
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex09-05-18\ex09-05-18\obj\Debug\ex09-05-18.exe
+C:\Users\frc.1581104850\Documents\SharpDevelop Projects\ex09-05-18\ex09-05-18\obj\Debug\ex09-05-18.pdb
